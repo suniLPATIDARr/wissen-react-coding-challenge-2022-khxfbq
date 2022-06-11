@@ -1,0 +1,46 @@
+h1,
+p {
+  font-family: Lato;
+}
+.wrapper {
+  width: 70%;
+}
+.input-css {
+  width: 88%;
+  padding: 15px;
+  margin: 5px 0px;
+  border: 1px solid #c0c2cb;
+  border-radius: 10px;
+}
+label {
+  display: block;
+}
+.button-css {
+  display: block;
+  box-shadow: none;
+  border: none;
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0px;
+  background-color: #d1d5ec;
+  border-radius: 10px;
+  color: #5b69bb;
+}
+.an-css {
+  margin-top: 20px;
+  text-align: center;
+}
+.an-css a {
+  text-decoration: none;
+  color: #5b69bb;
+}
+table {
+  background-color: lightblue;
+  margin: 5px 0px;
+}
+th,
+td,
+tr {
+  border: ipx solid #5b69bb;
+  padding: 5px;
+}
